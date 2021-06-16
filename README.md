@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aman Kashyap.
+- 👀 I’m interested in Android App & Game Development.
+- 🌱 I’m currently learning AI & ML.
+- 🧨 Happy to checkout your awesome projects.
+- 📫 You can reach me by mailing me at amankas864@gmail.com
